@@ -87,7 +87,7 @@ const Home = () => {
         <div className="space-y-6 sm:space-y-8">
           {currentCategory ? (
             <div className="space-y-6">
-              <div className="flex item-center justify-between">
+              <div className="flex item-center justify-between flex-wrap gap-3">
                 <button
                   onClick={handleBackToCategories}
                   className={`inline-flex items-center px-4 py-2 rounded-full text-sm font-medium transition-all duration-300 ${theme === "dark"

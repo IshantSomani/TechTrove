@@ -5,7 +5,7 @@ AI-Tool Explore TechTrove is a responsive MERN stack application showcasing vari
 
 ## Project Links
 
-- **Live Website:** [AI-Tool Explore TechTrove](https://techtrove.vercel.app/)
+- **Live Website:** [AI-Tool Explore TechTrove](https://techtrove-six.vercel.app/)
 - **GitHub Repository:** [TechTrove GitHub](https://github.com/IshantSomani/TechTrove)
 
 ## Table of Contents

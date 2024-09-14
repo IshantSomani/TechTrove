@@ -7,9 +7,7 @@ const NavBar = ({ toggleTheme, isMenuOpen, isDark, setIsMenuOpen }) => {
   const menuItems = [
     { category: "All List", icon: HomeIcon, path: "/" },
     { category: "AI Categories", icon: CpuChipIcon, path: "/ai-categories" },
-    { category: "Contact Us", icon: PhoneIcon, path: "/contact" },
-    // { category: "Admin Ai Tool", icon: UserIcon, path: "/AdminAiTool" },
-    // { category: "User Data", icon: UserIcon, path: "/userData" },
+    { category: "Contact Us", icon: PhoneIcon, path: "/contact" }
   ];
 
   return (
